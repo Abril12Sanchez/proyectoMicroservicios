@@ -1,0 +1,5 @@
+/node_modules
+
+
+#ignorar las credenciales de firebase
+/proyectomicroservicios-dd33d-firebase-adminsdk-crp6u-63e076cf78.json
